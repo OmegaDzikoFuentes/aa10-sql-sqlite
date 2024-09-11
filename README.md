@@ -107,3 +107,4 @@ Now your prompt should return to normal, which probably means it ends with "$"
 or "%".
 
 Congratulations! You have successfully used the SQLite3 CLI.
+# aa10-sql-sqlite
